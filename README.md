@@ -36,7 +36,7 @@ Paleontologists are people too. The head paleontologist would eventually like th
 
 # Functionality
 
-The head hancho would like the web portal for researchers to manage these assets. Editing their basic information, adding notes, and getting basic information for them. They envision a system that is easy to search for assets and dinosuars by their identifier, names, era's, and other basic properties.
+The head hancho would like the web portal for researchers to manage these assets and dinosuar information. Editing their basic information, adding notes, and getting basic information for them. They envision a system that is easy to search for assets and dinosuars by their identifier, names, era's, and other basic properties.
 
 ## Stretch goal functionality
 
