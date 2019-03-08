@@ -15,7 +15,7 @@ They would like a web portal where their researchers can see details of their co
 - Current Location. Where this asset is. Whether in an exhibit, storage, a lab, or on loan.
 - Credited Founder. The person or researcher who is attributed to finding this asset.
 
-## Dinosaurs
+### Dinosaurs
 
 __I'm a paleontologist not a physicist!__ A dinosaur has the following characteristics:
 - Identification Number. A GUID value that identifies the asset.
@@ -28,7 +28,7 @@ __I'm a paleontologist not a physicist!__ A dinosaur has the following character
 - Bones. The bones this dinosuar is made of.
 - Artifacts. A potential collection of "things" that are also related to this dinosuar. (eggs, feathers, trace fossils, etc.)
 
-## Researchers
+### Researchers
 
 Paleontologists are people too. The head paleontologist would eventually like the system have a system for the researchers to login, and eventually even visitors of the museum to maybe even see details of their careers.
 - Name.
@@ -38,7 +38,7 @@ Paleontologists are people too. The head paleontologist would eventually like th
 
 The head hancho would like the web portal for researchers to manage these assets and dinosuar information. Editing their basic information, adding notes, and getting basic information for them. They envision a system that is easy to search for assets and dinosuars by their identifier, names, era's, and other basic properties.
 
-## Stretch goal functionality
+### Stretch goal functionality
 
 The musuem will be replacing their exhibit displays with basic display screens. This would make it much more convential for swapping out exhibits. They would like the system to have a "kiosk view" of the basic information for guests to read and view about the contents of the exhibit.
 
@@ -48,23 +48,23 @@ The musuem will be replacing their exhibit displays with basic display screens. 
 
 Your mission (if you so choose to accept it), is to make this web application.
 
-## Backend
+### Backend
 
 - [Microsoft Dotnet Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 - [Json Api Dotnet Core](https://github.com/json-api-dotnet/JsonApiDotNetCore)
 - For quick and easy development I would look at using the [Sqlite Entity Framework Provider](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)
 
-## Frontend
+### Frontend
 
 - [Ember JS](https://emberjs.com/)
 
-## Testing
+### Testing
 
 Code should be tested and not considered "production ready" until so. Two frameworks for testing:
 - [Xunit](https://xunit.github.io/)
 - [Ember Mirage](https://www.ember-cli-mirage.com/)
 
-# Stretch Goals
+## Stretch Goals
 - Dockerized/Containerized application
   - [Docker](https://www.docker.com/)
 - Deployed to a cloud/server environment
