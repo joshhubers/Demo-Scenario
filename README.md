@@ -2,7 +2,7 @@
 
 The local museum head paleontologist has decided to revamp their research and engagement programs. Their current processes are outdated, mostly circuling around something called "paper" and "filing cabinets." He would like to not only update their asset manangement system for keeping stock of inventory (mostly dinosaur bones), but also provide a simple easy-to-use interface for for those who visit the museum and would like to know more about their exhibits. He dreams of having two components to this application.
 
-The first and largest priority is asset and research management. This will compose about 80% of the project. For the initial pilot of this application only the paleontology department will be using this application. (Note that these are just descriptions and may or may not reflect actual implementation or design of the system, that is up to you to decide!).
+The first and largest priority is asset and research management. This will compose about 80% of the project. For the initial pilot of this application only the paleontology department will be using this application. (Note that these are just the things "PHB" cares about and may or may not reflect actual implementation or design of the system, that is up to you to decide!).
 
 ## Assets
 
@@ -17,21 +17,22 @@ They would like a web portal where their researchers can see details of their co
 
 ## Dinosaurs
 
-__I'm a paleontologist not a physicist!__. A dinosaur has the following characteristics:
+__I'm a paleontologist not a physicist!__ A dinosaur has the following characteristics:
 - Identification Number. A GUID value that identifies the asset.
 - Scientific Name.
 - Common Name.
 - Era.
 - Description.
 - Current Location.
+- Notes.
 - Bones. The bones this dinosuar is made of.
 - Artifacts. A potential collection of "things" that are also related to this dinosuar. (eggs, feathers, trace fossils, etc.)
 
 ## Researchers
 
 Paleontologists are people too. The head paleontologist would eventually like the system have a system for the researchers to login, and eventually even visitors of the museum to maybe even see details of their careers.
-- Name
-- Occupation
+- Name.
+- Occupation.
 
 # Functionality
 
@@ -51,6 +52,7 @@ Your mission (if you so choose to accept it), is to make this web application.
 
 - [Microsoft Dotnet Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 - [Json Api Dotnet Core](https://github.com/json-api-dotnet/JsonApiDotNetCore)
+- For quick and easy development I would look at using the [Sqlite Entity Framework Provider](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)
 
 ## Frontend
 
