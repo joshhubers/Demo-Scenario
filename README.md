@@ -1,4 +1,4 @@
-# Project
+# The Dino Asset Tracker 9000
 
 The local museum head paleontologist has decided to revamp their research and engagement programs. Their current processes are outdated, mostly circuling around something called "paper" and "filing cabinets." He would like to not only update their asset manangement system for keeping stock of inventory (mostly dinosaur bones), but also provide a simple easy-to-use interface for for those who visit the museum and would like to know more about their exhibits. He dreams of having two components to this application.
 
