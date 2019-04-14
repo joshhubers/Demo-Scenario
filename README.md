@@ -40,7 +40,7 @@ The head hancho would like the web portal for researchers to manage these assets
 
 ### Stretch goal functionality
 
-The musuem will be replacing their exhibit displays with basic display screens. This would make it much more convential for swapping out exhibits. They would like the system to have a "kiosk view" of the basic information for guests to read and view about the contents of the exhibit.
+The musuem will be replacing their exhibit displays with basic display screens. This would make it much more conventional for swapping out exhibits. They would like the system to have a "kiosk view" of the basic information for guests to read and view about the contents of the exhibit.
 
 # Technical Implementation
 
@@ -71,3 +71,4 @@ Code should be tested and not considered "production ready" until so. Two framew
 - Application Authenticiation
   - [Dotnet Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.2&tabs=visual-studio)
   - [Ember Simple Auth](http://ember-simple-auth.com/)
+  - [Specflow](https://github.com/techtalk/SpecFlow)
