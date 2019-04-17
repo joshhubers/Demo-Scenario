@@ -64,6 +64,8 @@ Code should be tested and not considered "production ready" until so. Two framew
 - [Xunit](https://xunit.github.io/)
 - [Ember Mirage](https://www.ember-cli-mirage.com/)
 
+Before stretch goals only unit testing should be the focus in both the front end and back end.
+
 ## Stretch Goals
 - Dockerized/Containerized application
   - [Docker](https://www.docker.com/)
@@ -71,4 +73,6 @@ Code should be tested and not considered "production ready" until so. Two framew
 - Application Authenticiation
   - [Dotnet Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.2&tabs=visual-studio)
   - [Ember Simple Auth](http://ember-simple-auth.com/)
+- Integration testing
+  - [Selenium](https://docs.seleniumhq.org/)
   - [Specflow](https://github.com/techtalk/SpecFlow)
